@@ -11,6 +11,13 @@
 
 ![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ankkkitt&count_private=true&show_icons=true&theme=radical)
 
+<details>
+  <summary><b>🏆 GitHub Trophies</b></summary>
+  <br />
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ankkkitt&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" />
+  </p>
+</details>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
