@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ankit-upadhyay-25601415b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-upadhyay-25601415b/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channelhttps://www.youtube.com/channel/ucut0zae4go7vz-ralbhj5ew/ucut0zae4go7vz-ralbhj5ewhttps://www.youtube.com/channel/ucut0zae4go7vz-ralbhj5ew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channelhttps://www.youtube.com/channel/ucut0zae4go7vz-ralbhj5ew/ucut0zae4go7vz-ralbhj5ewhttps://www.youtube.com/channel/ucut0zae4go7vz-ralbhj5ew" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCut0zae4GO7vZ-RAlBhJ5ew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a>
 </p>
 
 
